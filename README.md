@@ -8,3 +8,13 @@ Análisis de la capacidad operativa y residual de contratistas en la contrataci�
 Las visualizaciones generadas durante el análisis pueden consultarse en el siguiente documento:
 
 [Ver visualizaciones del proyecto](DB_TFM_PRELIMINAR.pdf)
+
+## Tecnologías utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Power BI
+- GitHub
