@@ -3,3 +3,8 @@ Análisis de la capacidad operativa y residual de contratistas en la contrataci�
 ## Dashboard Analítico
 
 ![Dashboard TFM](TFMPBI.png)
+## Informe de Visualizaciones
+
+Las visualizaciones generadas durante el análisis pueden consultarse en el siguiente documento:
+
+[Ver visualizaciones del proyecto](DB_TFM_PRELIMINAR.pdf)
